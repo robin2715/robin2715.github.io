@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b190b924.css",
-    "main.js": "/static/js/main.2235486c.js",
+    "main.css": "/static/css/main.9d87566a.css",
+    "main.js": "/static/js/main.816c5d2f.js",
     "static/js/453.4678fff2.chunk.js": "/static/js/453.4678fff2.chunk.js",
     "static/media/mac-baccon.png": "/static/media/mac-baccon.1b8ebe60c9e7399ff25a.png",
     "static/media/TripleHamburguesaConQueso.png": "/static/media/TripleHamburguesaConQueso.54fcc5f655ed08e2c473.png",
@@ -15,12 +15,12 @@
     "static/media/logo.jpeg": "/static/media/logo.8c77945d993d88185905.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.b190b924.css.map": "/static/css/main.b190b924.css.map",
-    "main.2235486c.js.map": "/static/js/main.2235486c.js.map",
+    "main.9d87566a.css.map": "/static/css/main.9d87566a.css.map",
+    "main.816c5d2f.js.map": "/static/js/main.816c5d2f.js.map",
     "453.4678fff2.chunk.js.map": "/static/js/453.4678fff2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b190b924.css",
-    "static/js/main.2235486c.js"
+    "static/css/main.9d87566a.css",
+    "static/js/main.816c5d2f.js"
   ]
 }
