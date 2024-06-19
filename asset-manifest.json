@@ -1,9 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ff67d8e.css",
-    "main.js": "/static/js/main.d16f7c35.js",
+    "main.css": "/static/css/main.f09a4ea3.css",
+    "main.js": "/static/js/main.d499dc6a.js",
     "static/js/453.4678fff2.chunk.js": "/static/js/453.4678fff2.chunk.js",
+    "static/media/drpepper-removebg-preview.png": "/static/media/drpepper-removebg-preview.9bd46b21ee5251c1a0b6.png",
+    "static/media/cocacola-removebg-preview.png": "/static/media/cocacola-removebg-preview.9911331cba8c7c67d629.png",
+    "static/media/fantaorange-removebg-preview.png": "/static/media/fantaorange-removebg-preview.428fabfca1412d18b433.png",
+    "static/media/dietcoke-removebg-preview.png": "/static/media/dietcoke-removebg-preview.bff9578987b2960530b5.png",
+    "static/media/BackedApplePie-removebg-preview.png": "/static/media/BackedApplePie-removebg-preview.f9c73bd5f6809fe09fc5.png",
     "static/media/mac-baccon.png": "/static/media/mac-baccon.1b8ebe60c9e7399ff25a.png",
+    "static/media/VainillaChake-removebg-preview.png": "/static/media/VainillaChake-removebg-preview.f80c9352476ad0f5e615.png",
+    "static/media/ChocolateShake-removebg-preview.png": "/static/media/ChocolateShake-removebg-preview.3f1376be2b018626ecf1.png",
+    "static/media/VainillaCone-removebg-preview.png": "/static/media/VainillaCone-removebg-preview.2268b52b42361136da03.png",
+    "static/media/mcFlurrry-removebg-preview.png": "/static/media/mcFlurrry-removebg-preview.47e0382b0bc34626a511.png",
+    "static/media/sprite-removebg-preview.png": "/static/media/sprite-removebg-preview.288887510a005c365727.png",
     "static/media/TripleHamburguesaConQueso.png": "/static/media/TripleHamburguesaConQueso.54fcc5f655ed08e2c473.png",
     "static/media/logo-removebg-preview.png": "/static/media/logo-removebg-preview.df1916ef92f6ebd0f5a7.png",
     "static/media/DobleHamburguesaConQueso.png": "/static/media/DobleHamburguesaConQueso.d29f1885c25f033042d1.png",
@@ -16,12 +26,12 @@
     "static/media/logo.jpeg": "/static/media/logo.8c77945d993d88185905.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.2ff67d8e.css.map": "/static/css/main.2ff67d8e.css.map",
-    "main.d16f7c35.js.map": "/static/js/main.d16f7c35.js.map",
+    "main.f09a4ea3.css.map": "/static/css/main.f09a4ea3.css.map",
+    "main.d499dc6a.js.map": "/static/js/main.d499dc6a.js.map",
     "453.4678fff2.chunk.js.map": "/static/js/453.4678fff2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ff67d8e.css",
-    "static/js/main.d16f7c35.js"
+    "static/css/main.f09a4ea3.css",
+    "static/js/main.d499dc6a.js"
   ]
 }
