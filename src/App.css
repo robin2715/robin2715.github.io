@@ -1,0 +1,1102 @@
+.App {
+  text-align: center;
+}
+
+/* FRONTEND CLEINTE */
+
+.client-container{
+  display: flex;
+  flex-direction: row;
+}
+
+
+/* hamburguesas */
+
+.container-hamburguesas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Crea tres columnas de igual tamaño */
+  grid-gap: 5px; /* Espaciado entre las celdas de la grilla */
+  width: 40vw;
+  margin-left: 0;
+  margin-top: 100px;
+}
+
+.card-food {
+  width: 200px; /* Ajusta el ancho según tus necesidades */
+  margin-bottom: 20px; /* Ajusta el espaciado entre las tarjetas */
+  border: 1px solid #ccc; /* Agrega un borde opcional */
+  padding: 10px; /* Ajusta el espacio interno de la tarjeta */
+  height: 500px;
+}
+
+.img-food{
+  width: 150px;
+  /* margin-left: calc(50% - 75px); */
+  height: 150px;
+}
+
+
+
+
+/* CARBUY */
+
+.img-carbuy-logo{
+  width: 40%;
+ margin-top: -10px;
+  /* margin-left: calc(50% - 20%); */
+}
+.container-carbuy {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  width: 40vw;
+  position: absolute;
+  top: 0%;
+  left: 55%;
+  overflow-y: auto;
+}
+
+.container-carbuy > div {
+  margin-bottom: 10px;
+}
+
+.totalPaiContainer {
+  margin-top: 20px;
+  text-align: right;
+  height: auto;
+}
+
+.img-carbuy {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-top: 10px;
+  margin-left: calc(50% - 50px);
+}
+
+h1, h2, h3 {
+  margin: 5px 0;
+  font-weight: normal;
+}
+
+
+button{
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Nunito', sans-serif;
+}
+
+.primary-button {
+  background-color: #ffcc00; /* Amarillo McDonald's */
+  color: #d21f17; /* Rojo McDonald's */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombreado */
+  font-size: 20px;
+  padding: 2.5px;
+  font-family: 'Nunito', sans-serif;
+}
+
+/* Estilo para botón secundario */
+.secondary-button {
+  background-color: #d21f17; /* Rojo McDonald's */
+  color: #fff; /* Blanco */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombreado */
+  padding: 2.5px;
+  font-family: 'Nunito', sans-serif;
+}
+
+button:hover{
+  opacity: 0.9; /* Reducir opacidad al pasar el ratón */
+  transform: translateY(-1px); 
+}
+
+.logo-macdonalds{
+width: 75px;
+height: 75px;
+}
+
+.container-logo{
+  position: absolute;
+  left: 25%;
+  top: 1%;
+}
+.container-totalPayOrder{
+  background-color: red;
+  color: white;
+  height: 100px;
+  width: 40vw;
+}
+
+
+/* buttons tables */
+
+.container-buttons{
+  display: flex;
+  flex-direction: row;
+  width: 50vw;
+  position: absolute;
+}
+
+.table-button{
+  background-color: #d21f17; /* Rojo McDonald's */
+  color: #fff; /* Blanco */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  width: 75px;
+  height: 50px;
+}
+
+.table-button:disabled{
+  background-color: #111;
+}
+
+.container-btn-challange{
+  position: absolute;
+  left: 60%;
+  top: -100px;
+}
+
+
+.order-sucessfull{
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  margin-top: 0%;
+  /* position: absolute;
+  left: 100px;
+  top: 80%; */
+   
+}
+
+.ordersucess-h1{
+  /* margin-top: 100px; */
+
+}
+
+.information-user {
+  background-color: #f2f2f2; /* Color de fondo similar al de McDonald's */
+  padding: 20px; /* Espaciado interno */
+  border-radius: 10px; /* Bordes redondeados */
+  text-align: center; /* Alineación centrada del texto */
+  font-family: Arial, sans-serif; /* Fuente similar a la usada por McDonald's */
+}
+
+.information-user h1 {
+  color: #d91e2c; /* Color de texto rojo similar al de McDonald's */
+  font-size: 24px; /* Tamaño de fuente */
+}
+
+
+.container-tables{
+  position: absolute;
+  top: 25%;
+  left: 5%;
+}
+
+.container-buttons-barnav{
+  position: absolute;
+  left: 5%;
+}
+
+
+/* ERROR COMPONENT  */
+
+.error-container {
+  text-align: center;
+  background-color: #d21f17;
+  color: white;
+  height: 100vh;
+}
+
+.error-text {
+  font-size: 75px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+  /* background-image: url('./asses/not-found/logo-removebg-preview.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 80vw;
+  margin-left: calc(50% - 40vw); */
+}
+
+.error-image {
+  width: 300px;
+  height: auto;
+}
+
+
+.admin-carbuy{
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  width: 40vw;
+  margin-left: 52.5%;
+  /* position: absolute; */
+  top: 5%;
+  /* left: 5%; */
+  overflow-y: auto;
+}
+
+#admin-carbuy-tables{
+  position: absolute;
+  left: 65%;
+  top: 5%;
+}
+
+.impresion-table{
+  width: 300px;
+  margin-left: calc(50% - 150px);
+}
+
+
+.barnav-admin{
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.container-admin{
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+}
+
+
+.container-bdimpresion{
+width: 40vw;
+margin-left: 5%;
+/* border: #111 solid 1px; */
+height: 10vh;
+margin-top: 20%;
+}
+
+
+
+.error-container{
+  background-color: red;
+  color: white;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.container-logo-macdonalds-admin{
+  position: absolute;
+  left: 25%;
+  top: 5%;
+}
+.img-logo-macdonalds-admin{
+width: 150px;
+height: 150px;
+}
+
+.list-database{
+  list-style: none;
+}
+
+/* FRONTEND ADMINISTRADOR- */
+
+.container-buttons-carbuy{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin-left: calc(50% - 20%);
+}
+
+.number-orders-car{
+  color: white;
+  border-radius: 50%;
+  background-color: red;
+margin-left: 5px;
+padding: 2.5px;
+  /* height: 30%; */
+  /* margin-top: -2.5%; */
+}
+.navigate-food{
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  left: 2.5%;
+  top: 25%;
+}
+.order-item.active {
+  text-decoration: line-through;
+  color: black; 
+}
+
+.img-mesa{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.container-tables-panel-admin {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 75px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(50px, 1fr)); /* Ajusta el tamaño de las columnas */
+  gap: 20px; /* Espacio entre los elementos */
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columnas */
+  gap: 20px; /* Espacio entre los elementos */
+}
+
+.container-mapeo-tables {
+  background-color: #f9f9f9; /* Fondo claro */
+  border: 1px solid #ddd; /* Borde suave */
+  border-radius: 8px; /* Bordes redondeados */
+  padding: 10px; /* Espaciado interno */
+  text-align: center; /* Centra el texto */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra horizontalmente los elementos */
+}
+
+.img-mesa {
+  max-width: 100%; /* Asegura que la imagen no se desborde */
+  height: auto; /* Mantiene la proporción */
+}
+
+
+/* Estilo general del contenedor */
+.container-info-date {
+  margin-top: 20px;
+}
+
+/* Estilo para los botones de fecha */
+.container-btn-date {
+  margin: 10px 0;
+}
+
+.btn-date {
+  padding: 10px 15px;
+  background-color: #007bff; /* Color azul */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-date:hover {
+  background-color: #0056b3; /* Azul más oscuro al pasar el mouse */
+}
+
+/* Estilo para la información detallada */
+.container-info-date {
+  position: fixed;
+  left: 45%;
+  top: 5%;
+  overflow-y: auto;
+  height: 60vh;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.producto {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+.producto-2{
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+width: 80%;
+margin-left: calc(50% - 40%);
+}
+
+.producto-2 img {
+  width: 100%;
+  padding: 5px;
+  height: auto;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+
+.producto img {
+  width: 80px;
+  padding: 5px;
+  height: auto;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+
+.producto h2 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.container-info-div {
+  margin-top: 20px;
+  width: 500px;
+  margin-left: calc(50% - 250px);
+}
+
+.container-info-div h1 {
+  font-size: 20px;
+}
+
+.container-info-div h2 {
+  font-size: 18px;
+  color: #4CAF50; /* Color verde para la ganancia */
+}
+
+.container-information-register{
+display: flex;
+flex-direction: column;
+text-align: center;
+}
+
+.img-hamburguesa-register{
+  width: 500px;
+  height: 300px;
+  padding: 20px;
+}
+
+@media(min-width: 320px){
+  
+
+  
+
+  
+  #btn-mesero{
+    visibility: visible;
+    position: fixed;
+      top: 90%;
+      z-index: 20;
+      left: 30%;
+  }
+
+    
+  #btn-chat{
+    visibility: visible;
+    position: fixed;
+      top: 90%;
+      z-index: 20;
+      left: 60%;
+  }
+
+  .btn-navigate-food{
+padding: 2.4px;
+margin-left: 2.5px;
+  }
+   
+.number-orders-car{
+  color: white;
+  border-radius: 50%;
+  background-color: red;
+margin-left: 5px;
+margin-top: -1px;
+padding: 2.5px;
+  
+}
+
+.button-chic-minimalista {
+  display: inline-block;
+  padding: 3px 6px;
+  font-size: 10px;
+  border-radius: 20px;
+  background-color: #C8102E; /* Rojo oscuro */
+  color: #FFFFFF;
+  font-family: 'Allura', cursive; /* Fuente cursiva elegante */
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: none;
+  transition: background-color 0.3s;
+}
+
+.button-chic-minimalista:hover {
+  background-color: #a7002f; /* Rojo más oscuro */
+}
+
+.buttons-navigate-food-container{
+  margin-left: 0px;
+}
+
+.navigate-food{
+  width: 100%;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  background-color: rgb(255, 204, 0);
+  /* border-radius: 20px; */
+  padding: 5px;
+  padding-left: 4%;
+  z-index: 5;
+}
+
+
+  .img-carbuy-logo{
+    width: 40%;
+   margin-top: 0px;
+   margin-left: 25%;
+    /* margin-left: calc(50% - 20%); */
+  }
+
+  #btn-administrado{
+  visibility: hidden;
+  }
+  .client-container-p{
+    visibility: hidden;
+  }
+  .container-buttons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px; /* Espacio entre los elementos */
+}
+
+.table-button {
+    flex-basis: calc(33.33% - 10px); /* El 10px es para el espacio entre los botones */
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.container-hamburguesas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+  width: 40vw;
+  margin-left: 0;
+  margin-top: 100px;
+}
+.card-food {
+  width: 98vw;
+  /* margin-left: calc(50% - 40vw); */
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 500px;
+}
+.container-img-food{
+
+}
+
+.food-container{
+  margin-top: 250px;
+}
+
+.container-carbuy {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  width: 100vw;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  overflow-y: auto;
+  height: 100vh;
+  overflow-y: auto;
+  z-index: 15;
+}
+
+.primary-button {
+  background-color: #ffcc00;
+  color: #d21f17;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100px;
+  height: 30px;
+  font-size: 12px;
+}
+.container-btn-challange {
+  position: absolute;
+  left: 200px;
+  top: -99px;
+  display: flex;
+  flex-direction: row;
+}
+.container-buttons-barnav {
+  position: absolute;
+  left: 1%;
+}
+
+
+.container-logo {
+  position: absolute;
+  left: 80%;
+  top: 5%;
+}
+.logo-macdonalds {
+  width: 50px;
+  height: 50px;
+}
+
+
+.mesa-container{
+  margin-left: -300px;
+  margin-top: 50px;
+}
+
+.totalPaiContainer {
+  margin-top: 20px;
+  text-align: center;
+  height: auto;
+  /* margin-left: -10px; */
+}
+.error-text {
+  font-size: 50px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* admin */
+
+
+.container-bdimpresion {
+  width: 40vw;
+  margin-left: 5%;
+  
+  height: 10vh;
+  margin-top: 70%;
+}
+.division-mapeo-bd{
+  margin-top: 50px;
+}
+
+.img-logo-macdonalds-admin {
+  width: 75px;
+  height: 75px;
+}
+
+.container-logo-macdonalds-admin{
+  position: absolute;
+  left: 5%;
+  top: 5%;
+  font-size: 10px;
+}
+.btn-order-admin{
+  width: 100px;
+}
+
+#change-table{
+  position: fixed;
+  top: 90%;
+  left: 27.5%;
+  z-index: 20;
+
+}
+
+#btn-pedido{
+  position: fixed;
+  top: 90%;
+  left: 0%;
+  z-index: 20;
+  display: flex;
+  flex-direction: row;
+}
+
+
+}
+
+@media(min-width: 460px){
+  .logo-macdonalds {
+    width: 100px;
+    height: 100px;
+}
+
+.container-logo {
+  position: absolute;
+  left: 70%;
+  top: 2.5%;
+}
+.container-logo-macdonalds-admin {
+  position: absolute;
+  left: 5%;
+  top: 5%;
+  font-size: 10px;
+}
+.img-logo-macdonalds-admin {
+  width: 200px;
+  height: 200px;
+}
+
+.client-container-p{
+  visibility: visible;
+}
+
+}
+@media(min-width: 580px){
+
+
+  .img-food {
+    width: 200px;
+    /* margin-left: calc(50% - 100px); */
+    align-items: center;
+    height: 150px;
+}
+
+.card-food {
+  width: 98vw;
+  /* margin-left: calc(50% - 40vw); */
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 500px;
+ align-items: center;
+}
+
+.logo-macdonalds {
+  width: 150px;
+  height: 150px;
+}
+
+.container-logo {
+  position: absolute;
+  left: 60%;
+  top: 2.5%;
+}
+
+}
+
+@media(min-width: 720px){
+  .img-carbuy-logo{
+    width: 40%;
+   margin-top: -10px;
+    /* margin-left: calc(50% - 20%); */
+  }
+  #btn-administrado{
+  visibility: visible;
+  /* width: 100px; */
+  /* margin-top: -30px; */
+  position: absolute;
+  left: 600px;
+  top: 5%;
+  /* color: orange; */
+  /* font-weight: 100; */
+  /* color: rgb(245, 69, 5); */
+  }
+
+  .img-food {
+    width: 250px;
+    /* margin-left: calc(50% - 100px); */
+    align-items: center;
+    height: 150px;
+}
+
+.img-logo-macdonalds-admin {
+  width: 200px;
+  height: 200px;
+
+}
+.container-logo-macdonalds-admin {
+  position: absolute;
+  left: 5%;
+  top: 5%;
+  font-size: 10px;
+}
+.btn-order-admin {
+  width: 200px;
+}
+
+.container-bdimpresion {
+  height: 10vh;
+  margin-left: 5%;
+  margin-top: 60%;
+  width: 40vw;
+}
+
+}
+@media(min-width: 900px){
+  .logo-macdonalds {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+}
+
+@media(min-width: 1280px){
+  .primary-button {
+    background-color: #ffcc00;
+    color: #d21f17;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 150px;
+    height: 30px;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.container-btn-challange {
+  position: absolute;
+  left: 310px;
+  top: -99px;
+  display: flex;
+  flex-direction: row;
+}
+
+.card-food {
+  width: 800px;
+  margin-left: 25%;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 500px;
+  align-items: center;
+
+}
+
+.img-logo-macdonalds-admin {
+  width: 300px;
+  height: 300px;
+}
+.btn-order-admin {
+  width: 400px;
+}
+
+}
+
+
+@media(min-width: 1400px){
+
+  #btn-mesero{
+    visibility: hidden;
+  }
+  
+  #btn-chat{
+    visibility: hidden;
+  }
+
+
+  .order-item.active {
+    text-decoration: line-through;
+    color: black; 
+       /* background-color: #a7002f; */
+  }
+  
+.number-orders-car{
+  color: white;
+  border-radius: 50%;
+  background-color: red;
+margin-left: 5px;
+margin-top: -2.5px;
+padding: 2.5px;
+  /* height: 30%; */
+  /* margin-top: -2.5%; */
+}
+.button-chic-minimalista {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  background-color: #C8102E; /* Rojo oscuro */
+  color: #FFFFFF;
+  font-family: 'Allura', cursive; /* Fuente cursiva elegante */
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: none;
+  transition: background-color 0.3s;
+}
+
+.button-chic-minimalista:hover {
+  background-color: #a7002f; /* Rojo más oscuro */
+}
+
+.buttons-navigate-food-container{
+  margin-left: 150px;
+}
+
+.navigate-food{
+  width: 100%;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  background-color: rgb(255, 204, 0);
+  /* border-radius: 20px; */
+  padding: 5px;
+  padding-left: 4%;
+  z-index: 5;
+}
+
+  .container-hamburguesas {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Crea tres columnas de igual tamaño */
+    grid-gap: 5px; /* Espaciado entre las celdas de la grilla */
+    width: 40vw;
+    margin-left: 0;
+    margin-top: 100px;
+  }
+
+  .food-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Crea tres columnas de igual tamaño */
+    grid-gap: 5px; /* Espaciado entre las celdas de la grilla */
+    width: 40vw;
+    margin-left: 0;
+    margin-top: 120px;
+  }
+  
+  .card-food {
+    width: 200px; /* Ajusta el ancho según tus necesidades */
+    margin-bottom: 20px; /* Ajusta el espaciado entre las tarjetas */
+    border: 1px solid #ccc; /* Agrega un borde opcional */
+    padding: 10px; /* Ajusta el espacio interno de la tarjeta */
+    height: 500px;
+    margin-left: 25px;
+    border-radius: 10px;
+  }
+
+  .container-img-food {
+width: 85px;
+height: 85px;
+border-radius: 50%;
+border: 2px solid black;
+margin-left: calc(50% - 32.5px);
+margin-top: calc(50% - 32.5px);
+  }
+
+
+  .img-food {
+    width: 75px;
+    margin-left: calc(50% - 32.5px);
+    margin-top: calc(50% - 32.5px);
+    align-items: center;
+    height: 75px;
+    /* object-fit: cover; */
+}
+
+
+
+.container-buttons {
+  display: flex;
+  /* grid-template-columns: repeat(3, 1fr); */
+  grid-gap: 10px;
+  flex-direction: row;
+  width: 600px;
+}
+
+.container-carbuy {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  width: 20vw;
+  position: fixed;
+  top: 40%;
+  left: 62.5%;
+  overflow-y: auto;
+  height: 325px;
+  overflow-y: auto;
+}
+
+.confirmation-container{
+  position:absolute;
+  left: 50%;
+  top: 15%;
+  height: 200px;
+  width: 200px;
+  background-color: #ccc;
+}
+
+
+.container-logo {
+  position: absolute;
+  left: 67.5%;
+  top: 2.5%;
+  z-index: 10;
+}
+
+
+/* data base impresion */
+
+.databaseImpresion {
+  background-color: #ffffff; /* Fondo blanco */
+  border: 1px solid #cccccc; /* Borde gris */
+  padding: 20px; /* Espacio interno */
+  margin-bottom: 10px; /* Espacio entre elementos */
+  width: 40vw; /* Ancho fijo */
+}
+
+.databaseImpresion h1 {
+  font-size: 24px; /* Tamaño de fuente para el número de mesa */
+  margin-bottom: 10px; /* Espacio entre número de mesa y productos */
+}
+
+.databaseImpresion h2 {
+  font-size: 18px; /* Tamaño de fuente para productos y total */
+  margin-bottom: 5px; /* Espacio entre productos y total */
+}
+.container-bdimpresion {
+  border: 1px solid #111;
+  height: 10vh;
+  margin-left: 5%;
+  margin-top: 30%;
+  width: 40vw;
+}
+.card-food {
+  align-items: center;
+  border: 1px solid #ccc;
+  height: 500px;
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 250px;
+}
+
+.container-btn-menu{
+  margin-top: 40%;
+}
+
+#change-table{
+  position: static;
+  top: 90%;
+  left: 90%;
+  z-index: 20;
+
+}
+
+#btn-pedido{
+  position: static;
+  top: 90%;
+  left: 0%;
+  z-index: 20;
+  display: flex;
+  flex-direction: row;
+}
+}
