@@ -1,0 +1,22 @@
+Licencia del Proyecto - Menú Interactivo
+
+Copyright (c) [Año] Cristian Camilo Medina Sánchez
+
+Se otorgan los siguientes derechos bajo las siguientes condiciones:
+
+1. **Uso exclusivo**: El código fuente y los recursos del proyecto (denominados en adelante "el proyecto") son propiedad exclusiva de Cristian Camilo Medina Sánchez. Solo él tiene derecho a utilizar, modificar y distribuir este código.
+
+2. **Restricciones**:
+   - No se permite la distribución, modificación o uso del código por ninguna otra persona, empresa u organización sin el permiso expreso y por escrito de Cristian Camilo Medina Sánchez.
+   - No se permite la creación de trabajos derivados del proyecto, ni su integración en otros proyectos sin la autorización explícita.
+   - El código no puede ser utilizado con fines comerciales sin una licencia separada otorgada por el titular de los derechos.
+
+3. **Propiedad intelectual**: Todos los derechos sobre el proyecto, incluidos los derechos de autor y otros derechos de propiedad intelectual, pertenecen a Cristian Camilo Medina Sánchez.
+
+4. **No responsabilidad**: El proyecto se proporciona "tal cual" sin ninguna garantía expresa o implícita, incluidos, pero no limitados a, garantías de comerciabilidad o idoneidad para un propósito particular. El titular de los derechos no será responsable de ningún daño derivado del uso del proyecto.
+
+5. **Transferencia de derechos**: No se permite la cesión o sublicencia de los derechos otorgados bajo esta licencia.
+
+Este proyecto es para uso personal exclusivo y está protegido por las leyes de derechos de autor y otras leyes de propiedad intelectual.
+
+Si deseas obtener una licencia diferente o hacer un uso distinto del proyecto, por favor, contacta a Cristian Camilo Medina Sánchez para discutir los términos.
