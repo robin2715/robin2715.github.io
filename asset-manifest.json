@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b3dba1d.css",
+    "main.css": "/static/css/main.25efc4fc.css",
     "main.js": "/static/js/main.88eee289.js",
     "static/js/453.8bfd0f13.chunk.js": "/static/js/453.8bfd0f13.chunk.js",
     "static/media/FONDOCELL.jpg": "/static/media/FONDOCELL.a8ffc60a4028a39d1760.jpg",
@@ -34,12 +34,12 @@
     "static/media/redicon-removebg-preview.png": "/static/media/redicon-removebg-preview.42736f0e87ff3f92d27c.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.9b3dba1d.css.map": "/static/css/main.9b3dba1d.css.map",
+    "main.25efc4fc.css.map": "/static/css/main.25efc4fc.css.map",
     "main.88eee289.js.map": "/static/js/main.88eee289.js.map",
     "453.8bfd0f13.chunk.js.map": "/static/js/453.8bfd0f13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b3dba1d.css",
+    "static/css/main.25efc4fc.css",
     "static/js/main.88eee289.js"
   ]
 }
