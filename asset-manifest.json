@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4822a0e6.css",
-    "main.js": "/static/js/main.88eee289.js",
+    "main.css": "/static/css/main.32b3afe0.css",
+    "main.js": "/static/js/main.1d6b7609.js",
     "static/js/453.8bfd0f13.chunk.js": "/static/js/453.8bfd0f13.chunk.js",
     "static/media/FONDOCELL.jpg": "/static/media/FONDOCELL.a8ffc60a4028a39d1760.jpg",
     "static/media/FONDO.jpg": "/static/media/FONDO.85b327df3166e9b802fe.jpg",
@@ -34,12 +34,12 @@
     "static/media/redicon-removebg-preview.png": "/static/media/redicon-removebg-preview.42736f0e87ff3f92d27c.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.4822a0e6.css.map": "/static/css/main.4822a0e6.css.map",
-    "main.88eee289.js.map": "/static/js/main.88eee289.js.map",
+    "main.32b3afe0.css.map": "/static/css/main.32b3afe0.css.map",
+    "main.1d6b7609.js.map": "/static/js/main.1d6b7609.js.map",
     "453.8bfd0f13.chunk.js.map": "/static/js/453.8bfd0f13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4822a0e6.css",
-    "static/js/main.88eee289.js"
+    "static/css/main.32b3afe0.css",
+    "static/js/main.1d6b7609.js"
   ]
 }
