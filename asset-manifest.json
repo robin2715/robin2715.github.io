@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ca4a0d5.css",
-    "main.js": "/static/js/main.99f222c5.js",
+    "main.css": "/static/css/main.70c94cd6.css",
+    "main.js": "/static/js/main.d7afa4a5.js",
     "static/js/453.8bfd0f13.chunk.js": "/static/js/453.8bfd0f13.chunk.js",
     "static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].mp3": "/static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].c71e6151676b57fe550b.mp3",
     "static/media/TripleHamburguesaConQueso-removebg-preview.png": "/static/media/TripleHamburguesaConQueso-removebg-preview.93a974ab416d4ab2f556.png",
@@ -26,6 +26,7 @@
     "static/media/logocarbuy-removebg-preview.png": "/static/media/logocarbuy-removebg-preview.da30e3a36a4b0e9e199e.png",
     "static/media/Outlook notification sound.mp3": "/static/media/Outlook notification sound.a35dcc2f1727f3ad1694.mp3",
     "static/media/bebidaicono-removebg-preview (1).png": "/static/media/bebidaicono-removebg-preview (1).cb16b92697c352ccfb69.png",
+    "static/media/music_logo-removebg-preview.png": "/static/media/music_logo-removebg-preview.79ac7b2e4a17e5d4891e.png",
     "static/media/iconoPosttre-removebg-preview.png": "/static/media/iconoPosttre-removebg-preview.9c7dce7c66b50aa735cf.png",
     "static/media/hamburguesaIcono-removebg-preview.png": "/static/media/hamburguesaIcono-removebg-preview.b7829ca6965c4299470b.png",
     "static/media/Cash_Register_Kashing_-_Sound_Effect_[_YouConvert.net_].mp3": "/static/media/Cash_Register_Kashing_-_Sound_Effect_[_YouConvert.net_].c18da98cf4f125f2dce0.mp3",
@@ -35,12 +36,12 @@
     "static/media/VainillaChake-removebg-preview.png": "/static/media/VainillaChake-removebg-preview.30cd8d72809a5323f7b3.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.1ca4a0d5.css.map": "/static/css/main.1ca4a0d5.css.map",
-    "main.99f222c5.js.map": "/static/js/main.99f222c5.js.map",
+    "main.70c94cd6.css.map": "/static/css/main.70c94cd6.css.map",
+    "main.d7afa4a5.js.map": "/static/js/main.d7afa4a5.js.map",
     "453.8bfd0f13.chunk.js.map": "/static/js/453.8bfd0f13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ca4a0d5.css",
-    "static/js/main.99f222c5.js"
+    "static/css/main.70c94cd6.css",
+    "static/js/main.d7afa4a5.js"
   ]
 }
