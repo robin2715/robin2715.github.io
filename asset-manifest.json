@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5ab51396.css",
-    "main.js": "/static/js/main.995f789e.js",
+    "main.js": "/static/js/main.939a5a05.js",
     "static/js/453.8bfd0f13.chunk.js": "/static/js/453.8bfd0f13.chunk.js",
     "static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].mp3": "/static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].c71e6151676b57fe550b.mp3",
     "static/media/TripleHamburguesaConQueso-removebg-preview.png": "/static/media/TripleHamburguesaConQueso-removebg-preview.93a974ab416d4ab2f556.png",
@@ -12,12 +12,13 @@
     "static/media/ChocolateShake-removebg-preview.png": "/static/media/ChocolateShake-removebg-preview.4a48a05c315e07cf2bf8.png",
     "static/media/table-removebg-preview.png": "/static/media/table-removebg-preview.af3a9ad55b28825ed5e9.png",
     "static/media/BackedApplePie-removebg-preview.png": "/static/media/BackedApplePie-removebg-preview.1329214ea04f9878a2dc.png",
-    "static/media/españa-icono-removebg-preview.png": "/static/media/españa-icono-removebg-preview.c377f4a80c2f346a658f.png",
     "static/media/logo-removebg-preview.png": "/static/media/logo-removebg-preview.6fcf2277ea94ec10eeee.png",
     "static/media/VainillaCone-removebg-preview.png": "/static/media/VainillaCone-removebg-preview.9790a8137e8d5536bf92.png",
+    "static/media/españa-icono-removebg-preview.png": "/static/media/españa-icono-removebg-preview.a8fe5afd66ea0ee5ca55.png",
     "static/media/macFiestaJr-removebg-preview.png": "/static/media/macFiestaJr-removebg-preview.bf023e59bac11bbba32d.png",
     "static/media/mcFlurrry-removebg-preview.png": "/static/media/mcFlurrry-removebg-preview.e975c9089a2dbe2a03a4.png",
     "static/media/drpepper-removebg-preview.png": "/static/media/drpepper-removebg-preview.9bd46b21ee5251c1a0b6.png",
+    "static/media/usa-icon-removebg-preview.png": "/static/media/usa-icon-removebg-preview.264d940a0042b075bdf4.png",
     "static/media/cocacola-removebg-preview.png": "/static/media/cocacola-removebg-preview.9911331cba8c7c67d629.png",
     "static/media/fantaorange-removebg-preview.png": "/static/media/fantaorange-removebg-preview.428fabfca1412d18b433.png",
     "static/media/dietcoke-removebg-preview.png": "/static/media/dietcoke-removebg-preview.bff9578987b2960530b5.png",
@@ -25,7 +26,6 @@
     "static/media/hamburguesa-removebg-preview.png": "/static/media/hamburguesa-removebg-preview.5354ed2c1870f1c5c45a.png",
     "static/media/DobleHamburguesaConQueso-removebg-preview.png": "/static/media/DobleHamburguesaConQueso-removebg-preview.7053af6e50ee7d14d020.png",
     "static/media/logocarbuy-removebg-preview.png": "/static/media/logocarbuy-removebg-preview.da30e3a36a4b0e9e199e.png",
-    "static/media/usa-icon-removebg-preview.png": "/static/media/usa-icon-removebg-preview.1aac5bdb8f274ef7f782.png",
     "static/media/Outlook notification sound.mp3": "/static/media/Outlook notification sound.a35dcc2f1727f3ad1694.mp3",
     "static/media/bebidaicono-removebg-preview (1).png": "/static/media/bebidaicono-removebg-preview (1).cb16b92697c352ccfb69.png",
     "static/media/music_logo-removebg-preview.png": "/static/media/music_logo-removebg-preview.79ac7b2e4a17e5d4891e.png",
@@ -39,11 +39,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.5ab51396.css.map": "/static/css/main.5ab51396.css.map",
-    "main.995f789e.js.map": "/static/js/main.995f789e.js.map",
+    "main.939a5a05.js.map": "/static/js/main.939a5a05.js.map",
     "453.8bfd0f13.chunk.js.map": "/static/js/453.8bfd0f13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ab51396.css",
-    "static/js/main.995f789e.js"
+    "static/js/main.939a5a05.js"
   ]
 }
