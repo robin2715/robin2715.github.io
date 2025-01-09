@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e51bc4c.css",
+    "main.css": "/static/css/main.6b1fd79e.css",
     "main.js": "/static/js/main.45853911.js",
     "static/js/453.8bfd0f13.chunk.js": "/static/js/453.8bfd0f13.chunk.js",
     "static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].mp3": "/static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].c71e6151676b57fe550b.mp3",
@@ -38,12 +38,12 @@
     "static/media/VainillaChake-removebg-preview.png": "/static/media/VainillaChake-removebg-preview.30cd8d72809a5323f7b3.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.7e51bc4c.css.map": "/static/css/main.7e51bc4c.css.map",
+    "main.6b1fd79e.css.map": "/static/css/main.6b1fd79e.css.map",
     "main.45853911.js.map": "/static/js/main.45853911.js.map",
     "453.8bfd0f13.chunk.js.map": "/static/js/453.8bfd0f13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e51bc4c.css",
+    "static/css/main.6b1fd79e.css",
     "static/js/main.45853911.js"
   ]
 }
