@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1c8617d.css",
-    "main.js": "/static/js/main.ab6202b1.js",
-    "static/js/453.8bfd0f13.chunk.js": "/static/js/453.8bfd0f13.chunk.js",
+    "main.css": "/static/css/main.5cd4bc5c.css",
+    "main.js": "/static/js/main.5183db74.js",
+    "static/js/239.a3b17737.chunk.js": "/static/js/239.a3b17737.chunk.js",
+    "static/js/213.f4cde4c9.chunk.js": "/static/js/213.f4cde4c9.chunk.js",
+    "static/js/732.9d613972.chunk.js": "/static/js/732.9d613972.chunk.js",
+    "static/js/453.dfb13d96.chunk.js": "/static/js/453.dfb13d96.chunk.js",
     "static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].mp3": "/static/media/GTA_San_Andreas_Theme_Song_Full_[_YouConvert.net_].c71e6151676b57fe550b.mp3",
     "static/media/TripleHamburguesaConQueso-removebg-preview.png": "/static/media/TripleHamburguesaConQueso-removebg-preview.93a974ab416d4ab2f556.png",
     "static/media/mac-baccon-removebg-preview.png": "/static/media/mac-baccon-removebg-preview.120ae1f2cb8d6e8e5fdc.png",
@@ -23,6 +26,7 @@
     "static/media/fantaorange-removebg-preview.png": "/static/media/fantaorange-removebg-preview.428fabfca1412d18b433.png",
     "static/media/dietcoke-removebg-preview.png": "/static/media/dietcoke-removebg-preview.bff9578987b2960530b5.png",
     "static/media/sprite-removebg-preview.png": "/static/media/sprite-removebg-preview.288887510a005c365727.png",
+    "static/media/logo-home-removebg-preview.png": "/static/media/logo-home-removebg-preview.5a98d9f7538864940cae.png",
     "static/media/hamburguesa-removebg-preview.png": "/static/media/hamburguesa-removebg-preview.5354ed2c1870f1c5c45a.png",
     "static/media/DobleHamburguesaConQueso-removebg-preview.png": "/static/media/DobleHamburguesaConQueso-removebg-preview.7053af6e50ee7d14d020.png",
     "static/media/logocarbuy-removebg-preview.png": "/static/media/logocarbuy-removebg-preview.da30e3a36a4b0e9e199e.png",
@@ -30,7 +34,7 @@
     "static/media/bebidaicono-removebg-preview (1).png": "/static/media/bebidaicono-removebg-preview (1).cb16b92697c352ccfb69.png",
     "static/media/music_logo-removebg-preview.png": "/static/media/music_logo-removebg-preview.79ac7b2e4a17e5d4891e.png",
     "static/media/iconoPosttre-removebg-preview.png": "/static/media/iconoPosttre-removebg-preview.9c7dce7c66b50aa735cf.png",
-    "static/media/config-removebg-preview.png": "/static/media/config-removebg-preview.2a035dbba42199710477.png",
+    "static/media/pdficon-removebg-preview.png": "/static/media/pdficon-removebg-preview.e8ae07611235a1540c1b.png",
     "static/media/hamburguesaIcono-removebg-preview.png": "/static/media/hamburguesaIcono-removebg-preview.b7829ca6965c4299470b.png",
     "static/media/Cash_Register_Kashing_-_Sound_Effect_[_YouConvert.net_].mp3": "/static/media/Cash_Register_Kashing_-_Sound_Effect_[_YouConvert.net_].c18da98cf4f125f2dce0.mp3",
     "static/media/FONDO.jpg": "/static/media/FONDO.db61fdd529bc5a9ca8b4.jpg",
@@ -39,12 +43,15 @@
     "static/media/VainillaChake-removebg-preview.png": "/static/media/VainillaChake-removebg-preview.30cd8d72809a5323f7b3.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.b1c8617d.css.map": "/static/css/main.b1c8617d.css.map",
-    "main.ab6202b1.js.map": "/static/js/main.ab6202b1.js.map",
-    "453.8bfd0f13.chunk.js.map": "/static/js/453.8bfd0f13.chunk.js.map"
+    "main.5cd4bc5c.css.map": "/static/css/main.5cd4bc5c.css.map",
+    "main.5183db74.js.map": "/static/js/main.5183db74.js.map",
+    "239.a3b17737.chunk.js.map": "/static/js/239.a3b17737.chunk.js.map",
+    "213.f4cde4c9.chunk.js.map": "/static/js/213.f4cde4c9.chunk.js.map",
+    "732.9d613972.chunk.js.map": "/static/js/732.9d613972.chunk.js.map",
+    "453.dfb13d96.chunk.js.map": "/static/js/453.dfb13d96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1c8617d.css",
-    "static/js/main.ab6202b1.js"
+    "static/css/main.5cd4bc5c.css",
+    "static/js/main.5183db74.js"
   ]
 }
